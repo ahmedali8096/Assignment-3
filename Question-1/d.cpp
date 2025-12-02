@@ -5,7 +5,7 @@ int main(){
     int a,b,res;
     cin>>a;cin>>b;
     a=20;b=10;
-    // a+b=res;
+    a+b=res;
     cout<<"res ="<<res;
     return 0;
 }
